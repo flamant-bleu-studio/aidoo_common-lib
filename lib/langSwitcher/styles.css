@@ -1,0 +1,24 @@
+.langSwitcher {
+	padding-left:10px;
+}
+.langSwitcher img {
+	cursor:pointer;
+}
+.langSwitcher img.langActive {
+	float:left;
+	margin:5px 0px;
+	margin-right:5px;
+	border:1px solid transparent;
+}
+.langSwitcher .others {
+	display:none;
+	border: 1px solid #E6E7EB;
+	background-color:#FBFCF7;
+	float:left;
+}
+.langSwitcher .others img {
+	padding:0px 5px;
+}
+.langSwitcher .others img.current {
+	opacity:0.3;
+}

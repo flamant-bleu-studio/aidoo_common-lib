@@ -1,0 +1,18 @@
+{
+    "sProcessing":   	"Processing...",
+    "sLengthMenu":   	"Show _MENU_ element",
+    "sZeroRecords":  	"No items to display",
+    "sInfo":         	"Display element _START_ à _END_ sur _TOTAL_ elements",
+    "sInfoEmpty":    	"Show element 0 to 0 on 0 element",
+    "sInfoFiltered": 	"<br />(Filtred out of _MAX_ element)",
+    "sInfoPostFix":  	"",
+    "sSearch":       	"Search :",
+    "sLoadingRecords": 	"Download...",
+    "sUrl":          	"",
+    "oPaginate": {
+        "sFirst":    	"&lt;&lt;",
+        "sPrevious": 	"&lt;",
+        "sNext":    	"&gt;",
+        "sLast":     	"&gt;&gt;"
+    }
+}

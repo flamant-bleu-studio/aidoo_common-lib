@@ -1,0 +1,5 @@
+Modification dans cette librairie :
+
+- ajout de 'width: auto !important;' à la ligne 84 pour contrer le reset.css
+- minification JS
+- changement bouton submit (plus explicite)
